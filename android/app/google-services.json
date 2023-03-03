@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331269996580",
+    "project_id": "doctolib-dc50e",
+    "storage_bucket": "doctolib-dc50e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331269996580:android:efb808ab781b6fb7e3d8b1",
+        "android_client_info": {
+          "package_name": "com.example.patientdoctolib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331269996580-jldi3f35l6lohhdjng4kop9iqarur9iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_soTT5Y60hKTOSNmzuzHmGRogUQgfUF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331269996580-jldi3f35l6lohhdjng4kop9iqarur9iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
